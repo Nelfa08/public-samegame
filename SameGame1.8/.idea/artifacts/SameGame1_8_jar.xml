@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SameGame1.8:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SameGame1_8_jar</output-path>
+    <root id="archive" name="SameGame1.8.jar">
+      <element id="module-output" name="SameGame1.8" />
+      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+    </root>
+  </artifact>
+</component>
